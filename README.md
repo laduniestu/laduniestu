@@ -17,6 +17,10 @@ This is the place where I break things :rofl:
 <a href="https://linkedin.com/in/laduniestu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laduniestu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/laduniestusyalwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/laduniestu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laduniestu" height="30" width="40" /></a>
+  
+📊 &nbsp;**This week I spent my time on**
+  
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=laduniestu&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
@@ -154,9 +158,6 @@ I never stop to learn. Because one of my hobbies is learning new things. Of cour
   <img src="project-bnn.gif" height="200px" >
   <img src="project-marp.gif" height="200px" >
 </details>
-  
-📊 &nbsp;**This week I spent my time on**
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=laduniestu&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <img alt='analytics' src='https://profile-counter.glitch.me/laduniestu/count.svg' width='0px'>
 
